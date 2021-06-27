@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himanshu-suthar
 - 👀 I’m interested in Azure
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on cloud challanges
+- 🌱 I’m currently learning .NET Core, Angular and Azure
+- 💞️ I’m looking to collaborate on cloud skill challanges
 - 📫 How to reach me suthar.himanshu@outlook.com
 
 <!---
